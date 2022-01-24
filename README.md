@@ -74,14 +74,13 @@
 <p align="center"> 
    Visitor Count
  <br/>
+</p>
 
-  <center>
+<p align="center">
 
   ![](https://komarev.com/ghpvc/?username=manas221&color=red)
-
-</center>
-
-
+  
+<br/>
 </p>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
