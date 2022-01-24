@@ -75,7 +75,12 @@
    Visitor Count
  <br/>
 
+  <center>
+
   ![](https://komarev.com/ghpvc/?username=manas221&color=red)
+
+</center>
+
 
 </p>
 
