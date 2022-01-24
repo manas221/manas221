@@ -43,16 +43,14 @@
     </a>
 </p>
 
+
 ## 📊 Github Statistics 
 
-
-  <br/>
-    <center>
-    <a href="https://github.com/manas221/github-readme-stats"><img alt="Manas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas221&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p align="center">
+    <a  href="https://github.com/manas221/github-readme-stats"><img alt="Manas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas221&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/manas221/github-readme-stats"><img alt="Manas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manas221&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </center>
+</p>
 
-  <br/>
   <b>Note:</b> Top languages is only a metric of the languages that my public code has.
 
 <br/>
