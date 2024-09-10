@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/9OPPoCY.png"/></a>
+<div align="center">
+	<a width="900" href="https://ibb.co/TBdh3jF"><img src="https://i.ibb.co/qMV1QqP/where-will-curiosity-take-you.jpg" alt="where-will-curiosity-take-you" border="1"></a>
+</div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manas </h1>
 <h3 align="center">I'm a passionate upcoming Software Engineer from India.</h3>
@@ -6,17 +8,15 @@
 ## 🙋‍♂️ About Me
 
 
-- 😄 Employement ... Open for internships opportunities
-
-- 🌱 I’m currently learning **web dev**
+- 👨🏽‍💻 Employement ... Building Sales Order @<a href="https://tekion.com/" target="_blank"> tekion </a> 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 💬 Ask me about ... Data Structures & Algorithms, python, Data science
+- 💬 Ask me about ... Data Structures & Algorithms, react, javascript, browsers and frontend in general
 
-- 🎓 To be graduated in 2023
+- 🎓 graduated in 2023
 
-- 📫 How to reach me **smanas3578@gmail.com**
+- 📫 How to reach me **manass246172@gmail.com**
 
 
 ## 🚀 Languages and Tools:
